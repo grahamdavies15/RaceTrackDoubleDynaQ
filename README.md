@@ -11,7 +11,7 @@ After 30 episodes, the agent achieved returns similar to what Q-learning reached
 The environment was a the racetrack environment provided by Joshua Evans:
 ![image](https://github.com/grahamdavies15/RaceTrackDoubleDynaQ/assets/86721524/73491e9f-146e-4648-b97d-d6db0a3b35ef)
 
-#References:
+# References:
 Racetrack environment code by Dr Joshua Evans (racetrack_env.py)
 Basic Q-learning returns plot by Dr Joshua Evans (correct_returns_q.json)
 Off-policy TD Control Algorithm (Reinforcement Learning, Sutton & Barto, 2018, Section 6.5 p.131)
