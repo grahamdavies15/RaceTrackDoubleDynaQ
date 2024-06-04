@@ -5,12 +5,12 @@ I implemented Double Q-Learning and the DynaQ algorithm. DynaQ combines model-ba
 ![image](https://github.com/grahamdavies15/RaceTrackDoubleDynaQ/blob/main/images/returns.png)
 
 
-After 30 episodes, the agent achieved returns similar to what Q-learning reached in 150 episodes, indicating significantly faster learning. Additionally, it achieved higher average returns, showing improved overall performance. The increase in learning speed can be predominantly attributed to increased exploration in model planning from DynaQ, while double q-learning maintained efficiency through avoiding maximization bias.
+After 30 episodes, the agent achieved returns similar to what Q-learning reached in 150 episodes, indicating significantly faster learning. Additionally, it achieved higher average returns, showing improved overall performance. The increase in learning speed can be predominantly attributed to increased exploration in model planning from DynaQ, while double q-learning maintained efficiency by avoiding maximization bias.
 
 ![image](https://github.com/grahamdavies15/RaceTrackDoubleDynaQ/blob/main/images/returns_cropped.png)
 
 
-The environment was a the racetrack environment provided by Joshua Evans:
+The environment was the racetrack environment provided by Joshua Evans:
 
 ![image](https://github.com/grahamdavies15/RaceTrackDoubleDynaQ/blob/main/images/environment.png)
 
